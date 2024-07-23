@@ -80,7 +80,7 @@
 </p>
 
 
-📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnrfl&show_icons=true&locale=en&layout=compact&theme=dark" alt="lnrfl" />
