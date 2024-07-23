@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm lnrfl</h1>
-<h3 align="center">👨🏼‍💻 Frontend Developer based in Innsbruck, Austria 🇦🇹</h3>
+<h1>Hi 👋, I'm lnrfl</h1>
+<h3>👨🏼‍💻 Frontend Developer based in Innsbruck, Austria 🇦🇹</h3>
 
-<p align="center">
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=lnrfl&theme=darkhub" alt="lnrfl" />
   </a>
@@ -9,7 +9,6 @@
 
 ## Languages and Tools
 <p align="left">
-  <!-- Frontend Tools & Frameworks -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="padding: 5px; background: #fff; border-radius: 10px;"/>
   </a>
@@ -64,7 +63,6 @@
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" style="padding: 5px; background: #fff; border-radius: 10px;"/>
   </a>
-  <!-- Backend Tools -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="padding: 5px; background: #fff; border-radius: 10px;"/>
   </a>
@@ -89,10 +87,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnrfl&show_icons=true&locale=en&layout=compact&theme=dark" alt="lnrfl" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lnrfl&show_icons=true&locale=en&theme=dark" alt="lnrfl" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lnrfl&theme=dark" alt="lnrfl" />
 </p>
