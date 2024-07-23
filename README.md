@@ -1,13 +1,9 @@
 <h1>Hi 👋, I'm lnrfl</h1>
 <h3>👨🏼‍💻 Frontend Developer based in Innsbruck, Austria 🇦🇹</h3>
 
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lnrfl&theme=darkhub" alt="lnrfl" />
-  </a>
-</p>
 
-## Languages and Tools
+## 💻 Tech Stack:
+
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="padding: 5px; background: #fff; border-radius: 10px;"/>
@@ -83,6 +79,9 @@
   </a>
 </p>
 
+
+📊 GitHub Stats:
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnrfl&show_icons=true&locale=en&layout=compact&theme=dark" alt="lnrfl" />
 </p>
@@ -93,4 +92,13 @@
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lnrfl&theme=dark" alt="lnrfl" />
+</p>
+
+
+## 🏆 GitHub Trophies
+
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lnrfl&theme=darkhub" alt="lnrfl" />
+  </a>
 </p>
